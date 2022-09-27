@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @AleOrcia
-- 👀 I’m interested in Computer Programming
-- 🌱 I’m currently learning C && Python
+- 👀 I study Computer Engineering (Alma Mater Studiorum Bologna)
+- 🌱 C and Java programmer
