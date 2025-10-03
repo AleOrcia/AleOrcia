@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AleOrcia
 - 👀 I study Computer Engineering (Alma Mater Studiorum Bologna)
-- 🌱 Known programming languages and frameworks : Java, C, C#, SQL, JavaScript, HTML, CSS, React, Node, Matlab
+- 🌱 Known programming languages and frameworks : Java, C, C#, Python, JavaScript, SQL, React, Node, Matlab
 - 💻 CyberSecurity lover
 
 
